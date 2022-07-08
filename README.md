@@ -1,2 +1,2 @@
 # ShitScripts
-This is a library of my shit scripts (.lua) to SAMP
+This is a library of my shit scripts (.lua) for SAMP
